@@ -4,7 +4,6 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/survey">Survey</router-link>
     </div>
-
     <router-view/>
   </div>
 </template>
